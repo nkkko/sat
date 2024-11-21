@@ -4,6 +4,8 @@
 
 [![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/suborbital/sat)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/suborbital/sat)
+
 Sat is a WebAssembly-powered server designed to have the maximum performance and smallest possible footprint. Sat has a simple purpose: run a single Wasm module really f***ing fast.
 
 Sat has no dependencies (it's statically compiled), and can run in a tiny Docker container (Distroless) or on bare metal. It's meant to live in small places such as edge compute environments.
